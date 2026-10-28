@@ -10,7 +10,7 @@
 - Páginas **11, 12 e 13**: aprovadas.
 - Combate: **14A (resistir) e 14B (desviar)** aprovadas.
 - Páginas **15, 16, 17, 18 e 19**: aprovadas.
-- **Página 20 — O som do interior: roteiro proposto, ainda SEM aprovação explícita do pai.**
+- **Página 20 — O som do interior: aprovada expressamente em 28 de outubro de 2026.**
 
 ## Falas e decisões de referência
 - Página 01, anão: "Por que você olha tudo com essa cara de tolo?"
@@ -23,6 +23,7 @@
 - Página 16: a primeira gargalhada dos dois aventureiros.
 - Página 17: fragmento negro de material incomum, origem desconhecida.
 - Página 19: estrutura colossal de origem desconhecida, parcialmente enterrada, com breve efeito de desaparecimento. **Não revelar sua verdadeira natureza.**
+- Página 20: som metálico vindo do interior da estrutura; o anão e o mago decidem descer no dia seguinte. Encerramento do Capítulo III aprovado.
 
 ## Continuidade obrigatória
 - O anão conhece o mundo e os caminhos; o mago é estrangeiro.
